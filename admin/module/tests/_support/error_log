@@ -1,0 +1,1 @@
+[18-Aug-2020 03:02:33 UTC] PHP Fatal error:  Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/u744222235/domains/blann.com.br/public_html/beecontrol/admin/module/tests/_support/DatabaseTestCase.php on line 3

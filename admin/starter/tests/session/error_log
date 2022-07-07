@@ -1,0 +1,1 @@
+[18-Aug-2020 03:02:32 UTC] PHP Fatal error:  Class 'Tests\Support\SessionTestCase' not found in /home/u744222235/domains/blann.com.br/public_html/beecontrol/admin/starter/tests/session/ExampleSessionTest.php on line 3

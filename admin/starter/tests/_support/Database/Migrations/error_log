@@ -1,0 +1,1 @@
+[18-Aug-2020 03:02:32 UTC] PHP Fatal error:  Class 'CodeIgniter\Database\Migration' not found in /home/u744222235/domains/blann.com.br/public_html/beecontrol/admin/starter/tests/_support/Database/Migrations/2020-02-22-222222_example_migration.php on line 5
